@@ -35,7 +35,7 @@ Aplikasi menggunakan **Laravel** untuk mengambil data produk dari API, menyimpan
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/username/tes-junior-programmer.git
+git clone https://github.com/Habibal28/tes-junior-programmer.git
 cd tes-junior-programmer
 ```
 
